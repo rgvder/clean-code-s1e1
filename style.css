@@ -98,6 +98,7 @@ button {
   font-family: Lato, sans-serif;
   color: #888;
 }
+
 .todo-app__input-text:focus {
   color: #333;
 }
